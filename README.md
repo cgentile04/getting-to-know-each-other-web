@@ -1,4 +1,4 @@
-# Getting to Know Each Other
+# Getting to Know Each Other Web
 This project provides code for Getting to Know Each Other and is based on 
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/).
 
